@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule (.*) webpublic/$1 [L]
